@@ -2,10 +2,13 @@
 
 ## Table of Contents
 
-[Introduction](#introduction)
-[Data Wrangling](#data-wrangling)
-[Exploratory Data Analysis](#exploratory-data-analysis)
-[Conclusions](#conclusions)
+1. [Introduction](#introduction)
+
+2. [Data Wrangling](#data-wrangling)
+
+3. [Exploratory Data Analysis](#exploratory-data-analysis)
+
+4. [Conclusions](#conclusions)
 
 ### Introduction
 
